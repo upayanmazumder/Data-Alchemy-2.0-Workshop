@@ -1,15 +1,6 @@
-# %% [markdown]
-# # Cancer Data Prediction with Multiple Models
-# 
+# Cancer Data Prediction with Multiple Models
 # This notebook demonstrates how to predict cancer diagnoses using various machine learning models, including Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Random Forest, Decision Tree, Logistic Regression, KNN, SVM, Kernel SVM, and Naive Bayes. We will also perform hyperparameter tuning using Grid Search to optimize model performance.
-# 
-# 
-# 
-
-# %% [markdown]
-# ## Step 1: Import Required Libraries
-
-# %%
+## Step 1: Import Required Libraries
 # Importing necessary libraries for data handling, visualization, and machine learning models.
 import numpy as np
 import pandas as pd
@@ -25,7 +16,6 @@ from sklearn.svm import SVR # Support Vector Regression model
 from sklearn.naive_bayes import GaussianNB # Naive Bayes model
 import matplotlib.pyplot as plt # For visualizing results
 
-# %% [markdown]
 # ## Step 2: Load and Preprocess the Data
 
 # %%

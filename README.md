@@ -8,12 +8,14 @@
 
 ### Overview
 A hands-on session on AI and Machine Learning.  
-Refer to the 'Basics for reference.pdf' file for an overview.
+Refer to the attached PDFs for more information
 
 ---
 
 ### Notebooks:
 1. **EDA Titanic:** [Google Colab Link](https://colab.research.google.com/drive/1IWvEHonrJ__Q6oQrqnQ8I0Vy9nu3nGpI?usp=sharing)
 2. **Cancer Data Prediction:** [Google Colab Link](https://colab.research.google.com/drive/14fkfAatBBTSGsSfUAT9IC_JlAatVa-yc?usp=sharing)
+3. **MarketBasket Recommendations:** [Google Colab Link](https://colab.research.google.com/drive/14enWkOXKPVgiuHBFACrIa-VR1Dw_KbYR?usp=sharing)
 
+> Projects 1 to 3 are medium level, 4 to 5 are high level
 > The `.ipynb` files work well in Google Colab but may fail in Visual Studio Code. Proceed with caution.
