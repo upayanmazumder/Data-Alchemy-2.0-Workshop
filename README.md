@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/0e5b5a44-29ac-4830-871a-436de0e17ae9" alt="Data Alchemy 2.0 Workshop" width="100" height="100" />  
+# <img src="./banner.png" alt="Data Alchemy 2.0 Workshop" width="auto" height="200" />  
 ## Data Alchemy 2.0 Workshop  
 **The AI & ML Club, VIT Vellore**  
 *22nd September 2024*
